@@ -13,9 +13,7 @@ class Student
 
     function toTalk(): string
     {
-        if ($this->isTalky) {
-            return "Student {$this->name} is talking";
-        }
+        if ($this->isTalky) return "Student {$this->name} is talking";
 
         return "Student {$this->name} is going out";
     }
