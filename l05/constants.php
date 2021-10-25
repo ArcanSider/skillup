@@ -1,4 +1,4 @@
-d<?php
+<?php
 const NAME = 616;
 var_dump(NAME);
 

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fbccb3-28e7-49c9-acab-787cdfdf6044" name="Changes" comment="l018">
+    <list default="true" id="19fbccb3-28e7-49c9-acab-787cdfdf6044" name="Changes" comment="update1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#ib_16384_0.dblwr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_1.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_1.ibt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_10.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_10.ibt" afterDir="false" />
@@ -15,7 +14,7 @@
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_7.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_7.ibt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_8.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_8.ibt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_9.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/#innodb_temp/temp_9.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/mysql/files/binlog.000002" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/binlog.000002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/files/binlog.000008" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/binlog.000008" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/binlog.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/ib_buffer_pool" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/ib_logfile0" afterDir="false" />
@@ -24,8 +23,6 @@
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/mysql.ibd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/undo_001" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/mysql/files/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/files/undo_002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/nginx/2607.local.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker/nginx/2607.local.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/l018/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/l018/classes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/l05/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/l05/constants.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +45,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1yBC0i868QYtdPF3xpvGQVoptxu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,7 +127,9 @@
       <workItem from="1634831229642" duration="650000" />
       <workItem from="1634834667621" duration="291000" />
       <workItem from="1634912045175" duration="1578000" />
-      <workItem from="1634924446613" duration="465000" />
+      <workItem from="1634924446613" duration="858000" />
+      <workItem from="1635174369699" duration="612000" />
+      <workItem from="1635176060032" duration="3025000" />
     </task>
     <task id="LOCAL-00001" summary="l015">
       <created>1632944899480</created>
@@ -193,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633811572561</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update1">
+      <created>1634925144224</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634925144224</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update1">
+      <created>1634925201839</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634925201839</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +231,7 @@
     <MESSAGE value="." />
     <MESSAGE value="l016" />
     <MESSAGE value="l018" />
-    <option name="LAST_COMMIT_MESSAGE" value="l018" />
+    <MESSAGE value="update1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update1" />
   </component>
 </project>
